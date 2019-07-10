@@ -29,7 +29,7 @@ Consider this array of numbers:
 
 ```js
 
-cool_numbers = [3, 5, 2, 1, 4]
+let cool_numbers = [3, 5, 2, 1, 4]
 
 ```
 
@@ -38,7 +38,7 @@ If the instructions asked you to put these numbers in order, you might be tempte
 ```js
 
 /// DO NOT CODE THIS WAY. IT IS SUPREMELY INEFFICIENT.
-cool_numbers = [1, 2, 3, 4, 5]
+let cool_numbers = [1, 2, 3, 4, 5]
 
 ```
 
@@ -46,7 +46,7 @@ If this is the only way you know how to organize, imagine how exhausting your li
 
 ```js
 
-cool_numbers = [
+let cool_numbers = [
   99, 18, 89, 8, 48, 61, 30, 66, 14, 68, 76, 38, 37, 59, 38, 12, 87, 25, 67, 53, 17, 23, 89,
   45, 43, 99, 96, 21, 35, 79, 88, 63, 91, 15, 58, 5, 73, 58, 13, 41, 77, 84, 31, 22, 57,
   24, 72, 2, 90, 77, 39, 67, 55, 0, 73, 61, 65, 70, 17, 83, 99, 79, 56, 32, 66, 12, 9,
@@ -65,7 +65,7 @@ Instead, you want to use built-in methods to do your work for you, and then resa
 
 ```js
 
-cool_numbers = [3, 5, 2, 1, 4]
+let cool_numbers = [3, 5, 2, 1, 4]
 cool_numbers.sort() // Many JavaScript methods modify data in place, so this permanently sorts the array.
 
 ```

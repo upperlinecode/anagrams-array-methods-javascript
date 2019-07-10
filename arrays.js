@@ -1,6 +1,6 @@
 // As you may know, an anagram is a new word created by reorganizing all the letters in a word.
 // This array of anagrams are all based on the word "Stop"
-anagrams = ["plots", "post", "stop", "puts", "tops"]
+let anagrams = ["plots", "post", "stop", "puts", "tops"]
 
 // Run this program after you try each step and see if it worked.
 // At the very bottom of this file is a line of code that prints out the array after your code as run.
