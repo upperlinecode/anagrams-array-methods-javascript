@@ -36,10 +36,13 @@ let anagrams = ["plots", "post", "stop", "puts", "tops"]
 
 
 
-// LEVEL 2: At this point, the tasks will get more challenging, because you'll work with datasets too large to handle by just looking at it and reading them.
-// They're stored in another file called otherarrays.js, which is loaded before this one in the HTML.
+//// LEVEL 2 ////
+/* global fortunes */
 
+// At this point, the tasks will get more challenging, because you'll work with datasets too large to handle by just looking at it and reading them.
+// They're stored in a variable called fortunes in another file called otherarrays.js, which is loaded before this one in the HTML.
 // Pro-tip: to make this easier, scroll down and comment out the line "console.log(anagrams)" so that you aren't printing extra information.
+
 // 6. The first array is called "fortunes" and contains fortune-cookie style fortunes. Print out the third fortune from the array.
 
 
