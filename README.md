@@ -6,8 +6,8 @@ Arrays are crazy useful. Whether you're planning a party and creating a guest ar
 
 As a programmer, arrays become powerful tools. For example, if you make a guest array on paper and you want to know how many guests you have, you'd need to go back and number all the guests - for a big party like a wedding, that could take a long time. As a programmer, you can use built in array methods to do things like that for you, and to do it in a LOT less time.
 
-Here are a few examples of built-in function Python can complete almost instantly:
-* Alphabetize an array.
+Here are a few examples of built-in actions which can be completet almost instantly:
+* Organize the items in an array.
 * Count the items in an array.
 * Access (read or write) a specific item in the array.
 * Find a certain item and delete it from the array.
