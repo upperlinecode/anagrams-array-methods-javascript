@@ -24,8 +24,8 @@ let anagrams = ["plots", "post", "stop", "puts", "tops"]
 
 
 
-// 4. Use the documentation to figure out what the method ".pop()" does.
-//   Now use it to remove the word "plots" (which isn't a correct anagram of "stop") from our array.
+// 4. Use the documentation to figure out what the methods ".pop()" and ".shift()" do.
+//   Now use one of them to remove the word "plots" (which isn't a correct anagram of "stop") from our array.
 
 
 
