@@ -36,6 +36,10 @@ let anagrams = ["plots", "post", "stop", "puts", "tops"]
 
 
 
+// This code prints the array after you've manipulated it above.
+console.log(anagrams)
+// Before moving on to level 2, you will probably want to comment it out. 
+
 //// LEVEL 2 ////
 /* global fortunes */
 
@@ -67,6 +71,3 @@ let anagrams = ["plots", "post", "stop", "puts", "tops"]
 
 
 
-
-// This code prints the array after you've manipulated it above.
-console.log(anagrams)
