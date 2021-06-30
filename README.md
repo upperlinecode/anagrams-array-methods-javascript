@@ -1,5 +1,7 @@
 # An Array of Anagrams - JavaScript Edition
 
+[![Run on Repl.it](https://repl.it/badge/github/upperlinecode/anagrams-array-methods-javascript)](https://repl.it/github/upperlinecode/anagrams-array-methods-javascript)
+
 ### Introduction
 
 Arrays are crazy useful. Whether you're planning a party and creating a guest array, going grocery shopping and creating a grocery array, or debating with your friends about the top 10 movies of all time, you likely already do a lot of your thinking in array form.
